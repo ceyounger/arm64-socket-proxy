@@ -3,4 +3,4 @@ Tecnativa made an excellent Docker socket-proxy based on HAproxy.  This is simpl
 
 https://github.com/Tecnativa/docker-socket-proxy
 
-2022.09.20
+2023.02.22
